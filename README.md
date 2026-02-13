@@ -12,5 +12,7 @@ The only people currently working on this codebase are:
 
 - **Person-X** ([@username](https://github.com/someone-probably-named-Person-X))
 - **kulwanth komaravolu** ([@kulwanth-komaravolu](https://github.com/kulwanth-komaravolu))
+- **lovelybharath** ([@BharathVaradhi](https://github.com/BharathVaradhi))
+
 
 ### Thanks for stopping by!
